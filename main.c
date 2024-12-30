@@ -4,6 +4,7 @@
 #include "dbconnect.h"
 #include "dbquery.h"
 #include "primitives_phone.h"
+#include "primitives_ui.h"
 #include "lcdcolors.h"
 
 int main() {
@@ -80,7 +81,9 @@ int main() {
             }
         }
 		
-		draw_phoneui(0.4, "Agenda", 3);
+		draw_textbox_base("Sample text");
+		draw_frame();
+		al_flip_display();
 		
     }
 
@@ -88,6 +91,6 @@ int main() {
     al_destroy_event_queue(event_queue);
     al_destroy_display(display);
 	db_close(db);
-
+	
     return 0;
 }
