@@ -1,4 +1,7 @@
-# Beomff: A Visual Novel
+# Beomff: Visual Novel in Allegro5
+
+![beom-proto](https://github.com/user-attachments/assets/bde975a1-c02e-4f64-8866-d78e72abaeae)
+
 
 Beomff is a visual novel developed in C using the Allegro 5 game development library. The story explores themes of tyranny, quantum physics, and year 2000 cellphone aesthetics. 
 
