@@ -21,6 +21,7 @@ int main() {
         return -1;
     }
     
+    al_init_image_addon();
     
     al_init_font_addon();
     if (!al_init_ttf_addon()) {
@@ -64,6 +65,7 @@ int main() {
     
 		init_lcdcolors();
 		init_fonts();
+		init_phonebase();
 
     // Main game loop
     while (running) {
@@ -81,8 +83,10 @@ int main() {
             }
         }
 		
-		draw_textbox_base("Sample text");
+		draw_textbox_base("Pushing yourself to work harder will only get you more work. Just do the bare minimum to not get fired.");
+		swap_bgimg("06sieun.png");
 		draw_frame();
+		draw_phonebase();
 		al_flip_display();
 		
     }

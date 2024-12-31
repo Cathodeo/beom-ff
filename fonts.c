@@ -9,7 +9,7 @@ void init_fonts() {
 	
 	phone_text = al_load_ttf_font("font/fc22.ttf", 32, 0);
 	phone_title = al_load_ttf_font("font/fc22.ttf", 64, 0);
-	ui = al_load_ttf_font("font/98.ttf", 32, 0);
+	ui = al_load_ttf_font("font/98.ttf", 18, 0);
 	terminal = al_load_ttf_font("font/hbios.ttf", 32, 0);
 	
 }

@@ -28,15 +28,14 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=5
+current_page=1
 FILE_NAME_0=0;None;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fideas%2Fideas_db.txt;0;4
-FILE_NAME_1=2540;C;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fmain.c;0;4
+FILE_NAME_1=2707;C;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fmain.c;0;4
 FILE_NAME_2=291;C;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Ffonts.c;0;4
 FILE_NAME_3=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Ffonts.h;0;4
-FILE_NAME_4=232;C++;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_ui.h;0;4
-FILE_NAME_5=288;C;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_ui.c;0;4
-FILE_NAME_6=1030;C;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_phone.c;0;4
-FILE_NAME_7=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_phone.h;0;4
+FILE_NAME_4=380;C++;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_ui.h;0;4
+FILE_NAME_5=1207;C;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_phone.c;0;4
+FILE_NAME_6=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Ftmmartin%2Fbeom-ff%2Fprimitives_phone.h;0;4
 
 [VTE]
 last_dir=/home/tmmartin
